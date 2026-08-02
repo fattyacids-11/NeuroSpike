@@ -74,19 +74,10 @@ During this project I learned:
 
 ## Screenshots
 
-Add screenshots of the Streamlit interface here after running the app.
+<img width="1861" height="895" alt="image" src="https://github.com/user-attachments/assets/686ee224-99f2-4cd1-b109-86d3930f0b26" />
+
 
 ```text
 assets/screenshot.png
 assets/banner.png
 ```
-
-## LinkedIn Post Draft
-
-Excited to share my first project in Computational Neuroscience!
-
-I built NeuroSpike, an interactive simulator of a Leaky Integrate-and-Fire neuron from scratch using Python, NumPy, Matplotlib, and Streamlit without relying on any SNN libraries.
-
-Along the way I explored how membrane potential evolves over time, how neurons communicate through spikes, and how changing parameters such as input current, threshold, and membrane time constant affects firing behavior.
-
-This is the first step in my journey toward Spiking Neural Networks, Reservoir Computing, and Brain Organoid Intelligence.
