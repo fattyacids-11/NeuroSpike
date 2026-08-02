@@ -77,7 +77,3 @@ During this project I learned:
 <img width="1861" height="895" alt="image" src="https://github.com/user-attachments/assets/686ee224-99f2-4cd1-b109-86d3930f0b26" />
 
 
-```text
-assets/screenshot.png
-assets/banner.png
-```
